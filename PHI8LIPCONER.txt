@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang"en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+        <!-- Header section with location path-->
+         <header style="background-color:#1e3a8a; color:white; padding:16px;
+         display:flex; justify-content:space-between; align-items:center;">
+         <h1 style="font-size:24px; font-weight:bold; margin:0;">My Personal Website</hl>
+         <nav>
+            <ul style="display:flex;list-style:none;margin:0;padding:0;gap:24px;">
+            <li><a href="#home" style="color:blue;text-decoration:none;">Home</a></li>
+            <li><a href="#about" style="color:violet;text-decoration:none;">About</a></li>
+            <li><a href="#services" style="color:white;text-decoration:none;">Services</a></li>
+            <li><a href="#contact" style="color:white;text-decoration:none;">Contact</a></li>
+          </ul>
+         </nav>
+         </header>
+    
+         <section id="home" style="background-color: blue; padding:25%; margin-top: 20px;">
+            <p style="color:white; text-align: center;"> This is home page</p>
+            <img src="https://disney.fandom.com/wiki/Spider-Man" alt="Sample Image">
+            <img src="images.jpg" alt="Sample Image" width="30%"
+         </section>
+
+        <section id="about" style="background-color: gold; padding:25%; margin-top: 20px;">
+            <p style="color:white; text-align: center;"> This is about page</p>
+           <img src="https://disney.fandom.com/wiki/Spider-Man" alt="Sample Image">
+            <img src="Group 1.png" alt="Sample Image" width="30%"
+         </section>
+
+         <section id="services" style="background-color: violet; padding:25%; margin-top: 20px;">
+            <p style="color:white; text-align: center;"> This is services page</p>
+            <img src="https://disney.fandom.com/wiki/Spider-Man" alt="Sample Image">
+            <img src="" alt="Sample Image" width="30%"
+         </section>
+
+         <section id="contact" style="background-color: red; padding:25%; margin-top: 20px;">
+            <p style="color:white; text-align: center;"> This is contact page</p>
+         <img src="https://disney.fandom.com/wiki/Spider-Man" alt="Sample Image">
+            <img src="Group 1.png" alt="Sample Image" width="30%"
+         </section>
